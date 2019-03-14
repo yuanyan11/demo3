@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15074" started-at="2019-03-14T01:16:52Z" finished-at="2019-03-14T01:17:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15074" started-at="2019-03-14T01:16:52Z" finished-at="2019-03-14T01:17:07Z">
+      <class name="baidu.testbaidu">
+        <test-method status="PASS" signature="openfire()[pri:0, instance:baidu.testbaidu@4b6995df]" name="openfire" is-config="true" duration-ms="10948" started-at="2019-03-14T09:16:52Z" finished-at="2019-03-14T09:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openfire -->
+        <test-method status="PASS" signature="bd()[pri:0, instance:baidu.testbaidu@4b6995df]" name="bd" duration-ms="4110" started-at="2019-03-14T09:17:03Z" finished-at="2019-03-14T09:17:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bd -->
+      </class> <!-- baidu.testbaidu -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
